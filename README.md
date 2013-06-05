@@ -4,7 +4,7 @@ This is an experiment to implement screen space ambient occlusion into voxel.js.
 
 **So use sparingly.**
 
-Thanks to [alteredq](http://alteredqualia.com/) for the SSAO shader and [hughsk](https://github.com/hughsk) for [voxel-pp](https://github.com/hughsk/voxel-pp).
+Thanks to [alteredq](http://alteredqualia.com/) for the SSAO shader and three.js. Also thanks to [hughsk](https://github.com/hughsk) for making post-processing easier in voxel.js with [voxel-pp](https://github.com/hughsk/voxel-pp).
 
 # example
 
